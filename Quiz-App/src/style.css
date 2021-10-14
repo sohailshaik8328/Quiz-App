@@ -1,0 +1,18 @@
+body {
+  font-size: 20px;
+  background-color: #dad1d1;
+}
+
+table tr {
+  border: 1px solid black;
+}
+
+table th {
+  font-weight: 800;
+}
+
+table th,
+table td {
+  border: 1px solid black;
+  padding: 0.5rem;
+}
